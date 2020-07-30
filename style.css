@@ -1,0 +1,30 @@
+ p  {
+        color:blue;
+        }
+        h1{
+            color:red ;
+        }
+        .item {
+            background-color: aqua;
+            text-align: center;
+            font-size: larger;
+            margin: 5px;
+            border: brown 2px solid;
+        }
+        .item:hover {
+            background-color: palegoldenrod;
+        }
+
+
+        .items{
+            color:yellow;
+            display: flex;
+            width: "500px";
+        }
+        .otherpages{
+            color: lime;
+            display: flex;
+        }
+        body{
+            background-color: orange;
+        }
